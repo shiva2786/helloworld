@@ -1,8 +1,7 @@
 class Helloworld
 {
-public static void main(String arga[])
+public static void main(String args[])
 {
-system.out.println("Hello World");
-prints on screen "Hello world"
+System.out.println("Hello World");
 }
 }
